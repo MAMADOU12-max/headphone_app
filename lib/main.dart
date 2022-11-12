@@ -18,8 +18,8 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       debugShowCheckedModeBanner: false,
-      home: const RiveScreen(),
-      // home: const HomePage(),
+      // home: const RiveScreen(),
+      home: const HomePage(),
     );
   }
 }
